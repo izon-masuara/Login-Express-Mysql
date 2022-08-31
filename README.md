@@ -9,8 +9,9 @@ Kebutuhan :
 + Nodejs
 + NPM
 + MYSQL
++ POSTMAN
 
-Jika sudah memiliki keduanya lanjut ke langkah berikut dengan :
+Jika sudah memiliki keempat lanjut ke langkah berikut dengan :
 
 ```
     git clone https://github.com/izon-masuara/Login-Express-Mysql.git
@@ -36,3 +37,7 @@ output
 ```
     app running on port 8000
 ```
+
+## TOOLS
+
+Untuk mengetes aplikasi ini bisa menggunakan POSTMAN dengan url http://localhost/login dengan mengisi field username dan password
