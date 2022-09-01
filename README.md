@@ -40,4 +40,4 @@ output
 
 ## TOOLS
 
-Untuk mengetes aplikasi ini bisa menggunakan POSTMAN dengan url http://localhost/login dengan mengisi field username dan password
+Untuk mengetes aplikasi ini bisa menggunakan POSTMAN dengan url http://localhost:8000/login dengan mengisi field username dan password
